@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "AqWZNodkKTFaZvMVnwBht3JDBWIifPkyPDXez7i88h8=",
+  "Source": "VerifyEmailForgotPasswordWebApi",
+  "BasePath": "_content/VerifyEmailForgotPasswordWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
